@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\winform\\test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|D:\\C#\\winform\\test1\\test1\\dto\\sv_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|solutionrelative:test1\\dto\\sv_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|D:\\C#\\winform\\test1\\test1\\bll\\qlsv_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|solutionrelative:test1\\bll\\qlsv_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|d:\\c#\\winform\\test1\\test1\\ui\\form2_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|solutionrelative:test1\\ui\\form2_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|D:\\C#\\winform\\test1\\test1\\ui\\form1_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|solutionrelative:test1\\ui\\form1_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|D:\\C#\\winform\\test1\\test1\\ui\\form1_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|solutionrelative:test1\\ui\\form1_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|D:\\C#\\winform\\test1\\test1\\dto\\sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|solutionrelative:test1\\dto\\sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|D:\\C#\\winform\\test1\\test1\\ui\\form2_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|solutionrelative:test1\\ui\\form2_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|D:\\C#\\winform\\test1\\test1\\dto\\sv_f1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|solutionrelative:test1\\dto\\sv_f1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|D:\\C#\\winform\\test1\\test1\\creatdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|solutionrelative:test1\\creatdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|D:\\C#\\winform\\test1\\test1\\dto\\hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|solutionrelative:test1\\dto\\hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|D:\\C#\\winform\\test1\\test1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDBC277F-9BA5-4B91-A173-EE1041E9C842}|test1\\test1.csproj|solutionrelative:test1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2_UI.cs",
+              "DocumentMoniker": "D:\\C#\\winform\\test1\\test1\\UI\\Form2_UI.cs",
+              "RelativeDocumentMoniker": "test1\\UI\\Form2_UI.cs",
+              "ToolTip": "D:\\C#\\winform\\test1\\test1\\UI\\Form2_UI.cs",
+              "RelativeToolTip": "test1\\UI\\Form2_UI.cs",
+              "ViewState": "AQIAAIgAAAAAnJmZmZkOwJMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:14:59.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2_UI.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\winform\\test1\\test1\\UI\\Form2_UI.cs",
+              "RelativeDocumentMoniker": "test1\\UI\\Form2_UI.cs",
+              "ToolTip": "D:\\C#\\winform\\test1\\test1\\UI\\Form2_UI.cs [Design]",
+              "RelativeToolTip": "test1\\UI\\Form2_UI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:13:41.596Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SV_HP.cs",
+              "DocumentMoniker": "D:\\C#\\winform\\test1\\test1\\DTO\\SV_HP.cs",
+              "RelativeDocumentMoniker": "test1\\DTO\\SV_HP.cs",
+              "ToolTip": "D:\\C#\\winform\\test1\\test1\\DTO\\SV_HP.cs",
+              "RelativeToolTip": "test1\\DTO\\SV_HP.cs",
+              "ViewState": "AQIAAAEAAAAAmpmZmZkOwBMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:36:17.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SV_f1.cs",
+              "DocumentMoniker": "D:\\C#\\winform\\test1\\test1\\DTO\\SV_f1.cs",
+              "RelativeDocumentMoniker": "test1\\DTO\\SV_f1.cs",
+              "ToolTip": "D:\\C#\\winform\\test1\\test1\\DTO\\SV_f1.cs",
+              "RelativeToolTip": "test1\\DTO\\SV_f1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:00:59.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLSV_BLL.cs",
+              "DocumentMoniker": "D:\\C#\\winform\\test1\\test1\\BLL\\QLSV_BLL.cs",
+              "RelativeDocumentMoniker": "test1\\BLL\\QLSV_BLL.cs",
+              "ToolTip": "D:\\C#\\winform\\test1\\test1\\BLL\\QLSV_BLL.cs",
+              "RelativeToolTip": "test1\\BLL\\QLSV_BLL.cs",
+              "ViewState": "AQIAAOwAAAAA0JmZmZnlv/cAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:07:33.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1_UI.cs",
+              "DocumentMoniker": "D:\\C#\\winform\\test1\\test1\\UI\\Form1_UI.cs",
+              "RelativeDocumentMoniker": "test1\\UI\\Form1_UI.cs",
+              "ToolTip": "D:\\C#\\winform\\test1\\test1\\UI\\Form1_UI.cs",
+              "RelativeToolTip": "test1\\UI\\Form1_UI.cs",
+              "ViewState": "AQIAAE4AAAAAnJmZmZkfwFYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:06:04.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1_UI.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\winform\\test1\\test1\\UI\\Form1_UI.cs",
+              "RelativeDocumentMoniker": "test1\\UI\\Form1_UI.cs",
+              "ToolTip": "D:\\C#\\winform\\test1\\test1\\UI\\Form1_UI.cs [Design]",
+              "RelativeToolTip": "test1\\UI\\Form1_UI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:00:15.664Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreatDB.cs",
+              "DocumentMoniker": "D:\\C#\\winform\\test1\\test1\\CreatDB.cs",
+              "RelativeDocumentMoniker": "test1\\CreatDB.cs",
+              "ToolTip": "D:\\C#\\winform\\test1\\test1\\CreatDB.cs",
+              "RelativeToolTip": "test1\\CreatDB.cs",
+              "ViewState": "AQIAABsAAADIMTMzMzMLwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:36:51.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HP.cs",
+              "DocumentMoniker": "D:\\C#\\winform\\test1\\test1\\DTO\\HP.cs",
+              "RelativeDocumentMoniker": "test1\\DTO\\HP.cs",
+              "ToolTip": "D:\\C#\\winform\\test1\\test1\\DTO\\HP.cs",
+              "RelativeToolTip": "test1\\DTO\\HP.cs",
+              "ViewState": "AQIAAAcAAADgzMzMzMwnwBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:21:13.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SV.cs",
+              "DocumentMoniker": "D:\\C#\\winform\\test1\\test1\\DTO\\SV.cs",
+              "RelativeDocumentMoniker": "test1\\DTO\\SV.cs",
+              "ToolTip": "D:\\C#\\winform\\test1\\test1\\DTO\\SV.cs",
+              "RelativeToolTip": "test1\\DTO\\SV.cs",
+              "ViewState": "AQIAAA0AAAAAkpmZmZkOwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:20:59.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\winform\\test1\\test1\\Form1.cs",
+              "RelativeDocumentMoniker": "test1\\Form1.cs",
+              "ToolTip": "D:\\C#\\winform\\test1\\test1\\Form1.cs [Design]",
+              "RelativeToolTip": "test1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:13:11.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
